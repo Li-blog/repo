@@ -1,0 +1,34 @@
+Package: com.ezi.locklight
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: Li <me@wangjinli.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: deb//locklight_1.0.1-1.deb
+Size: 27514
+Installed-Size: 402
+MD5sum: e2b5f4811fc818453645954569cd0f1b
+Description: lock by swiping to spotlight page
+author: Li <me@wangjinli.com>
+icon: file:///Library/PreferenceBundles/LockLightPB.bundle/LockLightPB@2x.png
+homepage: http://repo.wangjinli.com
+depiction: http://repo.wangjinli.com/moreinfo/html/locklight.html
+name: LockLight
+
+Package: com.ezi.lyricformusic
+Version: 0.1.1-1
+Section: Tweaks
+Maintainer: Li <me@wangjinli.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: deb//lyricformusic_0.1.1-1.deb
+Size: 33514
+Installed-Size: 393
+MD5sum: c9c6a3321e1658d8ed960d9c5bb72823
+Description: lyrics for songs played in Music.app
+author: Li <me@wangjinli.com>
+icon: file:///Library/PreferenceBundles/LyricForMusicPB.bundle/LyricForMusicPB@2x.png
+homepage: http://repo.wangjinli.com
+depiction: http://repo.wangjinli.com/moreinfo/html/lyricformusic.html
+name: LyricForMusic
+
