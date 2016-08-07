@@ -32,3 +32,19 @@ homepage: http://repo.wangjinli.com
 depiction: http://repo.wangjinli.com/moreinfo/html/lyricformusic.html
 name: LyricForMusic
 
+Package: com.wangjinli.lirepobootlogo
+name: Li._repo Boot Logo
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: deb//lirepobootlogo_1.0.deb
+Size: 14652
+MD5sum: 6c5d2bbcd73387320c2ec86314944cbf
+author: Li <me@wangjinli.com>
+homepage: http://repo.wangjinli.com
+Depends: winterboard
+depiction: http://repo.wangjinli.com/moreinfo/html/lirepobootlogo.html
+Priority: extra
+Section: Themes (System)
+Description: Li._repo Boot Logo
+Maintainer: Li <me@wangjinli.com>
+
