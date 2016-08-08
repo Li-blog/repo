@@ -41,7 +41,7 @@ Size: 4904
 MD5sum: f77870aac4d792b347e459c89788fdde
 author: Li <me@wangjinli.com>
 homepage: http://repo.wangjinli.com
-Depends: winterboard
+Depends: com.anemonetheming.anemone
 depiction: http://repo.wangjinli.com/moreinfo/html/lirepobootlogo.html
 Priority: extra
 Section: Themes (System)
