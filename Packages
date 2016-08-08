@@ -48,3 +48,19 @@ Section: Themes (System)
 Description: Li._repo Boot Logo
 Maintainer: Li <me@wangjinli.com>
 
+Package: com.wangjinli.weekcountjb
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Li <me@wangjinli.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: deb//com.wangjinli.weekcountjb_1.0.0-1_iphoneos-arm.deb
+Size: 45450
+Installed-Size: 380
+MD5sum: 9013772fa958b8f3019d32fe758561ab
+Description: Display week number on lock screen and today view.
+author: Li <me@wangjinli.com>
+name: WeekCount
+homepage: http://repo.wangjinli.com
+depiction: http://repo.wangjinli.com/moreinfo/html/weekcount.html
+
