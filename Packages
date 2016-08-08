@@ -37,8 +37,8 @@ name: Li._repo Boot Logo
 Version: 1.1
 Architecture: iphoneos-arm
 Filename: deb//lirepobootlogo_1.1.deb
-Size: 6370
-MD5sum: 3dd595a035233db75181a8b54c444976
+Size: 6372
+MD5sum: b9da6f7b5953a7b98897e3e4464ae197
 author: Li <me@wangjinli.com>
 homepage: http://repo.wangjinli.com
 Depends: com.anemonetheming.anemone
