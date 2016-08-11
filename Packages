@@ -75,7 +75,7 @@ Size: 26666
 MD5sum: f374fbb89603f9253ef1d90e0d449d86
 Description: Generate the point you want using WeChat's dice emoticon.
 author: Li <me@wangjinli.com>
-name: WeekCount
+name: WeChatDice
 homepage: http://repo.wangjinli.com
 depiction: http://repo.wangjinli.com/moreinfo/html/wechatdice.html
 
