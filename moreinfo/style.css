@@ -170,7 +170,6 @@ body > panel > fieldset > div > p+p {
 }
 
 body > panel > fieldset > div img {
-	outline: solid rgba(204,204,204,0.3) 1px;
 	outline-offset: -1px;
 	zoom: 1.05;
 	-moz-transform: scale(1.05);
