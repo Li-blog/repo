@@ -71,8 +71,9 @@ Maintainer: Li <me@wangjinli.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb//com.wangjinli.wechatdice_1.0.1_iphoneos-arm.deb
-Size: 32320
-MD5sum: 70c1cc44b2ef4f9e6b81e460b56e03d8
+Size: 32324
+Installed-Size: 308
+MD5sum: d9c8153e048562d5c11a339b83c33023
 Description: Generate the point you want using WeChat's dice emoticon.
 author: Li <me@wangjinli.com>
 name: WeChatDice
